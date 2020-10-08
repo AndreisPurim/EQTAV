@@ -1,0 +1,27 @@
+{
+    "venues": [
+        {"i": 2,    "name": "Aprisionamento",                           "geometry":[56.973543, 23.783572]},
+        {"i": 3,    "name": "Passagem por Riga",                        "geometry":[56.947939, 24.104171]},
+        {"i": 4,    "name": "Em Vagões",                                "geometry":[56.919217, 24.186364]},
+        {"i": 5,    "name": "À caminho da Sibéria: Daugavpils",         "geometry":[55.871993, 26.532754]},
+        {"i": 5,    "name": "À caminho da Sibéria: Velikiye Luki",      "geometry":[56.339723, 30.563561]},
+        {"i": 5,    "name": "À caminho da Sibéria: Rzhev",              "geometry":[56.239682, 34.320765]},
+        {"i": 5,    "name": "À caminho da Sibéria: Moscow",             "geometry":[55.727676, 37.641095]},
+        {"i": 5,    "name": "À caminho da Sibéria: Tcherbacov",         "geometry":[58.041959, 38.834056]},
+        {"i": 5,    "name": "À caminho da Sibéria: Yaroslav",           "geometry":[57.641576, 39.844921]},
+        {"i": 5,    "name": "À caminho da Sibéria: Ivanova",            "geometry":[57.017570, 40.979461]},
+        {"i": 5,    "name": "À caminho da Sibéria: Gorkiy",             "geometry":[56.251564, 43.981084]},
+        {"i": 5,    "name": "À caminho da Sibéria: Kirov",              "geometry":[58.605796, 49.643700]},
+        {"i": 5,    "name": "À caminho da Sibéria: Molotov Sverdlovsky","geometry":[57.999280, 56.242954]},
+        {"i": 5,    "name": "À caminho da Sibéria: Tcheliabinsky",      "geometry":[55.139871, 61.416893]},
+        {"i": 5,    "name": "À caminho da Sibéria: Kurgan",             "geometry":[55.459000, 65.346916]},
+        {"i": 5,    "name": "À caminho da Sibéria: Petropavlovsky",     "geometry":[54.875300, 69.142295]},
+        {"i": 5,    "name": "À caminho da Sibéria: Omsky",              "geometry":[54.960582, 73.385337]},
+        {"i": 5,    "name": "À caminho da Sibéria: Novosibirsky.",      "geometry":[55.005747, 82.899961]},
+        {"i": 6,    "name": "De Barcaça pelo Rio Obi",                  "geometry":[57.456428, 83.948797]},
+        {"i": 6,    "name": "Tornamo-nos Carga Sem Valor: Kolpachev",   "geometry":[58.303783, 82.903140]},
+        {"i": 6,    "name": "Tornamo-nos Carga Sem Valor: Parabel",     "geometry":[58.723865, 81.526459]},
+        {"i": 6,    "name": "Nossas Canções, Cada vez mais tristes",    "geometry":[58.394074, 80.516233]},
+        {"i": 7,    "name": "O Kolkhoz do Grande Tchigas",              "geometry":[58.205382, 80.709804]}
+    ]
+}
